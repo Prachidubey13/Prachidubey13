@@ -6,11 +6,12 @@
 - **B.Tech in Electronics and Communication**
 - Currently enhancing my software skills at **Masai School**.
 
-## 💻 Skills
-- **Programming Languages**: Java, JavaScript
-- **Testing Tools**: Cypress, Selenium
-- **Testing Focus**: Automated Testing, Manual Testing, Cross-Browser Compatibility
-- **Methodologies**: Page Object Model (POM), Agile Development
+💻 Skills
+Programming Languages:
+Testing Tools:
+Testing Focus:
+Methodologies:
+
 
 ## 🚀 Projects
 ### 1. OpenCart Automated Testing
