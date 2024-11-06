@@ -58,8 +58,14 @@ Conducted extensive **manual testing** for the **TutorialsNinja** platform, vali
 - **Detailed Testing Documentation**
 - **Reproducibility and Quality Assurance**
 
-## 🌱 Current Focus
-I am currently exploring advanced testing methodologies and contributing to open-source projects, enhancing my skills in software development and testing practices.
+## 🌱 **Current Focus**
+
+I am currently exploring:
+- **Advanced Testing Methodologies**: Deepening my knowledge of modern testing strategies, such as BDD, TDD, and CI/CD pipelines.
+- **Open-Source Contributions**: Actively contributing to open-source projects to improve my software development and testing practices.
+  
+My goal is to continuously enhance my skills in **software development** and **quality assurance**, staying up-to-date with industry best practices.
+
 
 ## 📞 Get in Touch
 - **GitHub**: [Prachidubey13](https://github.com/Prachidubey13)
