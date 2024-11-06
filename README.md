@@ -8,22 +8,32 @@
 
 # 💻 **Skills**
 
-### Programming Languages
+## 🖥️ Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Testing Tools
+## 🧪 Testing Tools
 ![Cypress](https://img.shields.io/badge/Cypress-%23E5E5E5.svg?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-%23D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-%2300B4AB.svg?style=for-the-badge&logo=appium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-%23873695.svg?style=for-the-badge&logo=testng&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%23A42E2B.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-%23FF6A00.svg?style=for-the-badge&logo=browserstack&logoColor=white)
+![Bagasura](https://img.shields.io/badge/Bagasura-%231F2937.svg?style=for-the-badge&logoColor=white)
 
-### Testing Focus
+## 🔍 Testing Focus
 ![Automated Testing](https://img.shields.io/badge/Automated_Testing-%230081CB.svg?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-%237D4CDB.svg?style=for-the-badge)
 ![Cross-Browser Compatibility](https://img.shields.io/badge/Cross_Browser_Compatibility-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-%233CAB5B.svg?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-%230089B5.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Methodologies
+## 📚 Methodologies
 ![Page Object Model (POM)](https://img.shields.io/badge/Page_Object_Model-%23007ACC.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Agile Development](https://img.shields.io/badge/Agile_Development-%23048A81.svg?style=for-the-badge&logo=scrum&logoColor=white)
+
 
 ## 🚀 Projects
 ### 1. OpenCart Automated Testing
