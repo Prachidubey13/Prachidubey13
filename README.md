@@ -35,12 +35,28 @@
 ![Agile Development](https://img.shields.io/badge/Agile_Development-%23048A81.svg?style=for-the-badge&logo=scrum&logoColor=white)
 
 
-## 🚀 Projects
+## 🚀 **Projects**
+
 ### 1. OpenCart Automated Testing
-Developed an automated testing suite for the OpenCart e-commerce platform using Cypress and POM. Focused on comprehensive testing, including user registration, product search, shopping cart management, and affiliate program validations.
+![Cypress](https://img.shields.io/badge/Cypress-%23E5E5E5.svg?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Page Object Model (POM)](https://img.shields.io/badge/Page_Object_Model-%23007ACC.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+Developed an automated testing suite for the **OpenCart** e-commerce platform using **Cypress** and the **Page Object Model (POM)**. Focused on comprehensive testing, including:
+- **User Registration**
+- **Product Search**
+- **Shopping Cart Management**
+- **Affiliate Program Validations**
 
 ### 2. TutorialsNinja Manual Testing
-Conducted extensive manual testing for the TutorialsNinja platform, validating key user functionalities, ensuring cross-browser compatibility, and documenting testing processes for reproducibility and quality assurance.
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-%237D4CDB.svg?style=for-the-badge)
+![Cross-Browser Compatibility](https://img.shields.io/badge/Cross_Browser_Compatibility-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-%2346A2F1.svg?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+Conducted extensive **manual testing** for the **TutorialsNinja** platform, validating key user functionalities and ensuring quality standards. Key highlights include:
+- **Cross-Browser Compatibility**
+- **Detailed Testing Documentation**
+- **Reproducibility and Quality Assurance**
 
 ## 🌱 Current Focus
 I am currently exploring advanced testing methodologies and contributing to open-source projects, enhancing my skills in software development and testing practices.
