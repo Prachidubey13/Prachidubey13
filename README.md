@@ -65,6 +65,25 @@ I am currently exploring:
 - **Open-Source Contributions**: Actively contributing to open-source projects to improve my software development and testing practices.
   
 My goal is to continuously enhance my skills in **software development** and **quality assurance**, staying up-to-date with industry best practices.
+### 3. ConceptVines – Big Apple Taxi QA Automation
+![Cypress](https://img.shields.io/badge/Cypress-%23E5E5E5.svg?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-%237D4CDB.svg?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-%23007ACC.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%23048A81.svg?style=for-the-badge&logo=scrum&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+Contributed as a **Software Test Engineer** to the **Big Apple Taxi platform**, a medallion leasing and driver management system.
+
+Key Highlights:
+- Automated critical workflows (driver registration, lease creation, medallion management) using **Cypress + TypeScript**
+- Built a reusable test framework using **Page Object Model (POM)** and custom commands
+- Integrated test runs in **CI/CD pipelines** using GitHub Actions
+- Logged and tracked issues in **JIRA**, and participated in daily **Agile ceremonies** like standups and retros
+- Tested complex workflows like:
+  - **TLC license, DMV & SSN verification**
+  - **Medallion assignment, renewal, and payee updates**
+  - **Regression and smoke testing for production readiness**
+
 
 
 ## 📞 Get in Touch
